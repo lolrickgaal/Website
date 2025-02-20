@@ -1,0 +1,22 @@
+body {
+  background-image: url(https://e.snmc.io/i/fullres/w/8f646df55d439df36fda89c8aed9f1d6/7248739);
+  background-repeat: repeat; /* or repeat-x / repeat-y */
+  background-size: 50px 50px; /* Set width and height */
+}
+p {
+  background-color: yellow; /* Change to any color */
+  padding: 5px;
+}
+p1 {
+  background-color: white; /* Change to any color */
+  padding: 7px;
+}
+.bold-blue {
+  color: darkblue;
+  font-weight: bold;
+}
+.altscheme {
+  background-color: lightgreen;
+  padding: 14px;
+  font-weight: bold;
+}
