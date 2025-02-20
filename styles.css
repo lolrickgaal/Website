@@ -4,7 +4,7 @@ body {
   background-size: 50px 50px; /* Set width and height */
 }
 .theme1 {
-  background-image: url('DOINALLAT.jpg');
+  background-image: url('https://raw.githubusercontent.com/your-username/your-repo/main/images/DOINALLAT.jpg');
   background-repeat: repeat; /* or repeat-x / repeat-y */
   background-size: 50px 75px; /* Set width and height */
 }
