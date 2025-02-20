@@ -33,3 +33,28 @@ h1 {
   background-color: black;
   color: white;
 }
+cool-button {
+    background: linear-gradient(135deg, #6a11cb, #2575fc); /* Cool gradient */
+    color: white; /* White text */
+    border: none; /* Remove default border */
+    padding: 12px 24px; /* Add space inside */
+    font-size: 18px; /* Make text larger */
+    font-weight: bold; /* Bold text */
+    border-radius: 8px; /* Round corners */
+    cursor: pointer; /* Show hand cursor on hover */
+    transition: all 0.3s ease-in-out; /* Smooth animation */
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* Add a shadow */
+}
+
+/* Hover Effect */
+.cool-button:hover {
+    background: linear-gradient(135deg, #2575fc, #6a11cb); /* Reverse gradient */
+    transform: scale(1.05); /* Slightly grow */
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); /* Stronger shadow */
+}
+
+/* Active Effect (When Clicked) */
+.cool-button:active {
+    transform: scale(0.98); /* Slightly shrink */
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2); /* Softer shadow */
+}
