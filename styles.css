@@ -14,7 +14,7 @@ p {
   color: white;
   padding: 5px;
 }
-p1 {
+.p-alt {
   background-color: white; /* Change to any color */
   padding: 7px;
 }
