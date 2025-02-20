@@ -3,7 +3,8 @@ body {
   background-repeat: repeat; /* or repeat-x / repeat-y */
   background-size: 50px 50px; /* Set width and height */
 }
-body2 {
+.theme1 {
+  background-color: lightblue;
   background-image: url("C:\Users\ricks\Downloads\DOINALLAT.jpg");
   background-repeat: repeat; /* or repeat-x / repeat-y */
   background-size: 50px 75px; /* Set width and height */
