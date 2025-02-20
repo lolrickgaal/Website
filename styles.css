@@ -16,6 +16,7 @@ p {
 }
 .p-alt {
   background-color: white; /* Change to any color */
+  color: purple;
   padding: 7px;
 }
 .bold-blue {
