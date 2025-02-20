@@ -37,9 +37,10 @@ h1 {
     background: linear-gradient(135deg, #26cacf, #4c49d6); /* Cool gradient */
     color: white; /* White text */
     border: none; /* Remove default border */
-    padding: 30px 48px; /* Add space inside */
+    padding: 3px 8px; /* Add space inside */
     font-size: 36px; /* Make text larger */
     font-weight: bold; /* Bold text */
+  border-radius: 18px;
 }
 
 /* Hover Effect */
