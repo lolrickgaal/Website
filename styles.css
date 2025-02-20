@@ -10,7 +10,8 @@ body {
   background-size: 50px 75px; /* Set width and height */
 }
 p {
-  background-color: #E6E6FA; /* Change to any color */
+  background-color: #452c63; /* Change to any color */
+  color: eggshell;
   padding: 5px;
 }
 p1 {
