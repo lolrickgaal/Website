@@ -33,7 +33,7 @@ h1 {
   background-color: black;
   color: white;
 }
-cool-button {
+.cool-button {
     background: linear-gradient(135deg, #26cacf, #4c49d6); /* Cool gradient */
     color: white; /* White text */
     border: none; /* Remove default border */
