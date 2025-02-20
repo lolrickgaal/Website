@@ -11,7 +11,7 @@ body {
 }
 .josette {
   background-color: white;
-  background-image: url("i-miss-you.gif");
+  background-image: url(i-miss-you.gif);
   background-repeat: repeat; /* or repeat-x / repeat-y */
   background-size: 50px 50px; /* Set width and height */
 }
